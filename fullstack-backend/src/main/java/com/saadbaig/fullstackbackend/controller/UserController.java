@@ -4,6 +4,7 @@ import com.saadbaig.fullstackbackend.model.User;
 import com.saadbaig.fullstackbackend.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+import com.saadbaig.fullstackbackend.controller.UserNotFoundException;
 
 import java.util.List;
 
@@ -23,6 +24,13 @@ public class UserController {
     List<User> getAllUsers() {
         return userRepository.findAll();
     }
+
+    @GetMapping("/user/{id}")
+    User getUserById(@PathVariable Long id) {
+        return userRepository.findById(id)
+                .orElseThrow(() -> new UserNotFoundException(id));
+    }
+
 
 
 }
