@@ -28,6 +28,6 @@
 - **Spring Boot** was utilised to **create user models**, which were subsequently employed to **store employee information in the database**. The user models were established using the **Jakarta Persistence import** and **annotations**, including **@Entity, @Id, and @GeneratedValue**. This approach **facilitated the maintenance of the REST API**, making it more manageable and easier to maintain in the long run.
 - **MySQL Workbench and DataGrip** were employed to **store employee information**. The **backend**, developed with **Spring Boot**, was **configured to connect with the database**, while the **frontend**, built with **React**, was responsible for **retrieving and displaying** this information.
 - **Spring Boot** was additionally utilised to **create custom exceptions**, specifically designed for **handling scenarios where the user ID was not found or encountered other exceptional conditions**.
-#### Backend Technology Stack Summarisation Diagram
+#### React & Spring Boot Summarisation Diagram
 
 ![spring-boot-react-crud-example-rest-api-architecture](https://github.com/Saad1929/Employee-Management-System/assets/108022733/72a0af45-30b9-43b2-81ef-4a66b17ecbb9)
