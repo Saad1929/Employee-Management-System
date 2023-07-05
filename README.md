@@ -8,3 +8,13 @@
 - The main objective of this project was to create a thorough Full Stack Application using Spring Boot as the frontend and React as the backend.
 - Driven by an **unwavering enthusiasm** for **learning and self-improvement**, I dedicated my **personal time** to meticulously **develop and refine it**.
 ## ⚙️Technologies, Requirements and Software Tools
+### Programming and Scripting Languages
+- Java
+- JavaScript
+- HTML
+- CSS
+- JSON
+### Frameworks
+- Spring Boot (Java Framework)
+- React (JavaScript Framework)
+### Other Software Tools
