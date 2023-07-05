@@ -1,1 +1,1 @@
-# Employee Management System - Spring Boot & React
+# Employee Management System Backend - Spring Boot
