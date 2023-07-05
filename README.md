@@ -35,7 +35,7 @@
 ### Postman and Testing Sceenshots
 - **Postman** was used as an **API platform** to **design, build, test and iterate** the **RESTful API** which was **built using Spring Boot**.
 #### GET Request (Normal Case) 
-<img width="1438" alt="GET" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/bfc2a4d1-598f-4753-a243-359f74f2bafb">
+<img width="800" alt="GET" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/bfc2a4d1-598f-4753-a243-359f74f2bafb">
 
 #### GET Request (Exceptional Case)
 - The customer error handling implemented in the Spring Boot backend works successfully, as evidenced by the appropriate handling of the situation where a user with an ID of 20 does not exist.
