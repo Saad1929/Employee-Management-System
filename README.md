@@ -15,6 +15,8 @@
 - CSS
 - JSON
 ### Frameworks
-- Spring Boot (Java Framework)
-- React (JavaScript Framework)
+- Spring Boot
+- React
+- Bootstrap
 ### Other Software Tools
+- 
