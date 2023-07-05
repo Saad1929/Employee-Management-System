@@ -47,3 +47,6 @@
 #### DELETE Request (Exceptional Case)
 <img width="800" alt="DELETE ERROR" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/cdb5d84d-06b1-4330-995e-fc8b12e63003">
 
+#### POST Request (Normal Case)
+<img width="800" alt="Get   Post" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/7902b5ae-07d0-480c-8961-b2a5f2c11535">
+
