@@ -23,3 +23,4 @@
 - **DataGrip** was also used to support the **backend** in storing user information.
 - **Postman** was used to **test PUT, GET, POST and DELETE requests to the database**.
 ## ✏️Design - Backend
+### Backend Technology Stack
