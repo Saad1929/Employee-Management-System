@@ -1,4 +1,4 @@
 # Employee Management System Backend - Spring Boot
 ## Brief Summary
-- Frontend part of this project can be found here: https://github.com/Saad1929/Employee-Management-Frontend
+- The **frontend component** of this **fullstack** project is located here: https://github.com/Saad1929/Employee-Management-Frontend
 - Backend to a fullstack personal project used to store employee information.
