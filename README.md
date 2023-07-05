@@ -19,4 +19,6 @@
 - React
 - Bootstrap
 ### Other Software Tools
-- 
+- MySQLWorkbench
+- DataGrap
+- Postman
