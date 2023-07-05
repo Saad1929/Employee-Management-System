@@ -25,4 +25,4 @@
 ## ✏️Design - Backend
 ### Backend Technology Stack
 - **Java** served as the **backend programming language** for the web application, while the **Spring Boot framework** was employed to **facilitate its development and operation**.
-- **Spring Boot** was utilised to **create user models**, which were subsequently employed to **store employee information in the database**. 
+- **Spring Boot** was utilised to **create user models**, which were subsequently employed to **store employee information in the database**. The user models were established using the **Jakarta Persistence import** and **annotations**, including **@Entity, @Id, and @GeneratedValue**.
