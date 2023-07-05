@@ -15,9 +15,9 @@
 - CSS
 - JSON
 ### Frameworks
-- Spring Boot
-- React
-- Bootstrap
+- Spring Boot - **Backend**
+- React - **Frontend**
+- Bootstrap - **Frontend & Backend**
 ### Other Software Tools
 - **MySQLWorkbench** played a role where the **backend** relied on this technology to **store user information**.
 - **DataGrip** was also used to support the **backend** in storing user information.
