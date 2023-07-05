@@ -41,3 +41,5 @@
 - The customer error handling implemented in the Spring Boot backend works successfully, as evidenced by the appropriate handling of the situation where a user with an ID of 20 does not exist.
   <img width="800" alt="GET ERROR" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/04da1212-cf5d-40da-a2a0-704e64ce3c56">
 
+#### PUT Request (Normal Case)
+<img width="800" alt="PUT" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/c092edf5-5518-4f2f-9b84-aebe1ac196bc">
