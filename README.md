@@ -19,6 +19,6 @@
 - React
 - Bootstrap
 ### Other Software Tools
-- MySQLWorkbench
-- DataGrap
+- **MySQLWorkbench** played a role where the **backend** relied on this technology to **store user information**.
+- **DataGrip** was also used to support the **backend** in storing user information.
 - Postman
