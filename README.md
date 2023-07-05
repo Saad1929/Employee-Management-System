@@ -24,3 +24,4 @@
 - **Postman** was used to **test PUT, GET, POST and DELETE requests to the database**.
 ## ✏️Design - Backend
 ### Backend Technology Stack
+- **Java** served as the **backend programming language** for the web application, while the **Spring Boot framework** was employed to **facilitate its development and operation**.
