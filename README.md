@@ -4,6 +4,7 @@
 1. [ Brief Summary ](#summary)
 2. [ Aims and Motivation ](#aims)
 3. [ Technologies, Requirements and Software Tools ](#tech)
+4. [ Design ](#design)
 
 <a name="summary"></a>
 ## Brief Summary
@@ -35,6 +36,7 @@
 - **MySQLWorkbench** played a role where the **back-end** relied on this technology to **store user information**.
 - **DataGrip** was also used to support the **back-end** in storing user information.
 - **Postman** was used to **test PUT, GET, POST and DELETE requests to the database**.
+<a name="design"></a>
 ## ✏️Design - Back-end
 ### Back-end Technology Stack
 - **Java** served as the **back-end programming language** for the web application, while the **Spring Boot framework** was employed to **facilitate its development and operation**.
