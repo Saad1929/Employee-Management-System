@@ -58,3 +58,7 @@
 
 #### Postman Summarisation Diagram
 <img width="700" alt="Get   Post" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/55ded7ac-d37d-4507-aebb-0209852de730">
+
+## Application Screenshots
+### Home Page 
+<img width="800" alt="Screenshot 2023-07-06 at 9 54 06 pm" src="https://github.com/Saad1929/Employee-Management-Front-end/assets/108022733/86f9c3fa-f5d9-419a-bd64-418930fd2729">
