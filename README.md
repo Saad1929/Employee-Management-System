@@ -16,7 +16,7 @@
 - JSON
 ### Frameworks
 - Spring Boot - **Backend**
-- React - **Frontend**
+- React, including npm axios * npm react-router-dom - **Frontend**
 - Bootstrap - **Frontend & Backend**
 ### Other Software Tools
 - **MySQLWorkbench** played a role where the **backend** relied on this technology to **store user information**.
