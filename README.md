@@ -19,6 +19,9 @@
 - Spring Boot - **Backend**
 - React (ncluding npm axios & npm react-router-dom) - **Frontend**
 - Bootstrap - **Frontend & Backend**
+### npm Requirements
+- nmp axios
+- npm react-router-dom
 ### Other Software Tools
 - **MySQLWorkbench** played a role where the **backend** relied on this technology to **store user information**.
 - **DataGrip** was also used to support the **backend** in storing user information.
