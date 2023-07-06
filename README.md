@@ -7,7 +7,7 @@
 - This application allows users to **view, add, remove, and edit** individuals within their management system.
 ## 🎯Aims and Motivation
 - The main objective of this project was to create a thorough **Full Stack Application** using **Spring Boot & MySQL** as the **backend** and **React** as the **frontend**.
-- Driven by an **unwavering enthusiasm** for **learning and self-improvement**, I dedicated my **personal time** to meticulously **develop and refine it**.
+- Driven by an **unwavering enthusiasm** for **learning and self-improvement**, I dedicated my **personal time** to meticulously **develop and refine this Full Stack Application**.
 ## ⚙️Technologies, Requirements and Software Tools
 ### Programming and Scripting Languages
 - Java
