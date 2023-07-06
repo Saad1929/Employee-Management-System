@@ -34,6 +34,7 @@
 
 ### Postman and Testing Sceenshots
 - **Postman** was used as an **API platform** to **design, build, test and iterate** the **RESTful API** which was **built using Spring Boot**.
+- Requests were dealt in **JSON** and **SQL**.
 #### GET Request (Normal Case) 
 <img width="800" alt="GET" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/bfc2a4d1-598f-4753-a243-359f74f2bafb">
 
