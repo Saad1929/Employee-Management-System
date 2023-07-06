@@ -66,3 +66,5 @@
 ### Register User Page
 <img width="800" alt="Register User Page" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/5d119492-a4c4-4748-bafa-434d6b39856e">
 
+### View User Details Page
+
