@@ -9,6 +9,7 @@
 - The main objective of this project was to create a thorough **Full Stack Application** using **Spring Boot & MySQL** as the **backend** and **React** as the **frontend**.
 - Driven by an **unwavering enthusiasm** for **learning and self-improvement**, I dedicated my **personal time** to meticulously **develop and refine this Full Stack Application**.
 ## ⚙️Technologies, Requirements and Software Tools
+- Requirements listed below are for the **frontend and backend**.
 ### Programming and Scripting Languages
 - Java
 - JavaScript
