@@ -19,7 +19,7 @@
 - Spring Boot - **Backend**
 - React - **Frontend**
 - Bootstrap - **Frontend & Backend**
-### npm Requirements
+### npm Requirements (React)
 - nmp axios
 - npm react-router-dom
 ### Other Software Tools
