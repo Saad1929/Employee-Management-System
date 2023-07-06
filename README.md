@@ -5,6 +5,7 @@
 2. [ Aims and Motivation ](#aims)
 3. [ Technologies, Requirements and Software Tools ](#tech)
 4. [ Design ](#design)
+5. [ Application Screenshots ](#demo)
 
 <a name="summary"></a>
 ## Brief Summary
@@ -69,6 +70,7 @@
 #### Postman Summarisation Diagram
 <img width="600" alt="Get   Post" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/55ded7ac-d37d-4507-aebb-0209852de730">
 
+<a name="design"></a>
 ## Application Screenshots
 ### Home Page 
 <img width="800" alt="Home Page" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/b06c8fc4-0b25-4c2f-aa7e-977b8061cbac">
