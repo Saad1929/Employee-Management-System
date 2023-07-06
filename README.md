@@ -6,7 +6,7 @@
 - This repository contains the **backend** of a **Full Stack** **personal project**, which is **responsible for storing employee information** and is implemented using the **Spring Boot Java Framework** which serves as the **web framework** for the **backend**.
 - This application allows users to **view, add, remove, and edit** individuals within their management system.
 ## 🎯Aims and Motivation
-- The main objective of this project was to create a thorough Full Stack Application using Spring Boot as the backend and React as the frontend.
+- The main objective of this project was to create a thorough **Full Stack Application** using **Spring Boot & MySQL** as the **backend** and **React** as the **frontend**.
 - Driven by an **unwavering enthusiasm** for **learning and self-improvement**, I dedicated my **personal time** to meticulously **develop and refine it**.
 ## ⚙️Technologies, Requirements and Software Tools
 ### Programming and Scripting Languages
