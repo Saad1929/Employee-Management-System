@@ -3,6 +3,7 @@
 ## Contents
 1. [ Brief Summary ](#summary)
 2. [ Aims and Motivation ](#aims)
+3. [ Technologies, Requirements and Software Tools ](#tech)
 
 <a name="summary"></a>
 ## Brief Summary
@@ -14,6 +15,7 @@
 ## 🎯Aims and Motivation
 - The main objective of this project was to create a thorough **Full Stack Application** using **Spring Boot & MySQL** as the **back-end** and **React** as the **front-end**.
 - Driven by an **unwavering enthusiasm** for **learning and self-improvement**, I dedicated my **personal time** to meticulously **develop and refine this Full Stack Application**.
+<a name="tech"></a>
 ## ⚙️Technologies, Requirements and Software Tools
 - Requirements listed below are for the **front-end and back-end**.
 ### Programming and Scripting Languages
