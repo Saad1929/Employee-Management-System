@@ -63,3 +63,6 @@
 ### Home Page 
 <img width="800" alt="Home Page" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/b06c8fc4-0b25-4c2f-aa7e-977b8061cbac">
 
+### Register User Page
+<img width="800" alt="Register User Page" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/5d119492-a4c4-4748-bafa-434d6b39856e">
+
