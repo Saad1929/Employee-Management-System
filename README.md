@@ -2,6 +2,7 @@
 - **Front-end Component** using **React** is located here: https://github.com/Saad1929/Employee-Management-Frontend
 ## Contents
 1. [ Brief Summary ](#summary)
+2. [ Aims and Motivation ](#aims)
 
 <a name="summary"></a>
 ## Brief Summary
@@ -9,6 +10,7 @@
 - **CREATE, READ, UPDATE and DELETE (CRUD)** appliction.
 - This repository contains the **back-end** of a **Full Stack** **personal project**, which is **responsible for storing employee information** and is implemented using the **Spring Boot Java Framework** which serves as the **web framework** for the **back-end**.
 - This application allows users to **view, add, remove, and edit** individuals within their management system.
+<a name="aims"></a>
 ## 🎯Aims and Motivation
 - The main objective of this project was to create a thorough **Full Stack Application** using **Spring Boot & MySQL** as the **back-end** and **React** as the **front-end**.
 - Driven by an **unwavering enthusiasm** for **learning and self-improvement**, I dedicated my **personal time** to meticulously **develop and refine this Full Stack Application**.
