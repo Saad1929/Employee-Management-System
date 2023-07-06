@@ -17,7 +17,7 @@
 - JSON
 ### Frameworks
 - Spring Boot - **Backend**
-- React (ncluding npm axios & npm react-router-dom) - **Frontend**
+- React - **Frontend**
 - Bootstrap - **Frontend & Backend**
 ### npm Requirements
 - nmp axios
