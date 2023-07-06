@@ -57,4 +57,4 @@
 <img width="800" alt="Get   Post" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/7902b5ae-07d0-480c-8961-b2a5f2c11535">
 
 #### Postman Summarisation Diagram
-<img width="800" alt="Get   Post" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/55ded7ac-d37d-4507-aebb-0209852de730">
+<img width="700" alt="Get   Post" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/55ded7ac-d37d-4507-aebb-0209852de730">
