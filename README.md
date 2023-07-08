@@ -13,7 +13,7 @@
 - **CREATE, READ, UPDATE and DELETE (CRUD)** appliction.
 - This repository contains the **back-end** of a **Full Stack** **personal project**, which is **responsible for storing employee information** and is implemented using the **Spring Boot Java Framework** which serves as the **web framework** for the **back-end**.
 - This application allows users to **view, add, remove, and edit** individuals within their management system.
-- This project is now **fully utilised** by my community's sports club.
+- This project is now **fully utilised** by my **community's sports club**.
 <a name="aims"></a>
 ## 🎯Aims and Motivation
 - The main objective of this project was to create a thorough **Full Stack Application** using **Spring Boot & MySQL** as the **back-end** and **React** as the **front-end**.
