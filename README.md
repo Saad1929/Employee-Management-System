@@ -75,19 +75,24 @@
 
 
 #### Postman Summarisation Diagram
-<img width="600" alt="Get   Post" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/55ded7ac-d37d-4507-aebb-0209852de730">
+![postman](https://github.com/Saad1929/Employee-Management-System/assets/108022733/e045a6d9-48a6-46d8-8c78-daa6cb444606)
+
 
 <a name="demo"></a>
 ## Application Screenshots
 ### Home Page 
-<img width="800" alt="Home Page" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/b06c8fc4-0b25-4c2f-aa7e-977b8061cbac">
+<img width="800" alt="Home Page" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/4d545b20-5119-4de1-a8e4-f9146811c9ac">
+
 
 ### Register User Page
-<img width="800" alt="Register User Page" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/5d119492-a4c4-4748-bafa-434d6b39856e">
+<img width="800" alt="Register User Page" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/ff73e389-5e45-4b0d-ac50-921d58c4e570">
+
 
 ### View User Details Page
-<img width="800" alt="View User Details Page" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/248ecfdd-2ec5-4cd4-8f8a-d4f34e0fc0f0">
+<img width="800" alt="View User Details Page" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/4edc3800-24a3-4753-9c3c-e1167b779352">
+
 
 ### Edit User Page
-<img width="800" alt="Edit User Page" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/e8810285-35fc-4e87-b429-cffba76da869">
+<img width="800" alt="Edit User Page" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/61cf2427-57ec-42bf-8bda-77dab6c32c4d">
+
 
