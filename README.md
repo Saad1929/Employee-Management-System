@@ -47,26 +47,32 @@
 - **Spring Boot** was additionally utilised to **create custom exceptions**, specifically designed for **handling scenarios where the user ID was not found or encountered other exceptional conditions**.
 #### React & Spring Boot Summarisation Diagram
 
-![spring-boot-react-crud-example-rest-api-architecture](https://github.com/Saad1929/Employee-Management-System/assets/108022733/72a0af45-30b9-43b2-81ef-4a66b17ecbb9)
+![spring-boot-react-crud-example-rest-api-architecture](https://github.com/Saad1929/Employee-Management-System/assets/108022733/9951b53f-cf9c-4bf8-830f-654fa135789f)
+
 
 ### Postman and Testing Sceenshots
 - **Postman** was used as an **API platform** to **design, build, test and iterate** the **RESTful API** which was **built using Spring Boot**.
 - Requests were dealt in **JSON** and **SQL**.
 #### GET Request (Normal Case) 
-<img width="800" alt="GET" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/bfc2a4d1-598f-4753-a243-359f74f2bafb">
+<img width="800" alt="GET" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/6f37bf38-071f-4d61-b4a7-7569e4730129">
+
 
 #### GET Request (Exceptional Case)
 - The customer error handling implemented in the Spring Boot back-end works successfully, as evidenced by the appropriate handling of the situation where a user with an ID of 20 does not exist.
-  <img width="800" alt="GET ERROR" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/04da1212-cf5d-40da-a2a0-704e64ce3c56">
+<img width="800" alt="GET ERROR" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/ec068261-bc66-4f0e-b36f-d38889d2ae12">
+
 
 #### PUT Request (Normal Case)
-<img width="800" alt="PUT" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/c092edf5-5518-4f2f-9b84-aebe1ac196bc">
+<img width="1440" alt="PUT" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/2d978d20-75d9-43a1-96e2-d05f067df848">
+
 
 #### DELETE Request (Exceptional Case)
-<img width="800" alt="DELETE ERROR" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/cdb5d84d-06b1-4330-995e-fc8b12e63003">
+<img width="800" alt="DELETE ERROR" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/7c54018f-ee71-4e11-a222-70e17cd6970a">
+
 
 #### POST Request (Normal Case)
-<img width="800" alt="Get   Post" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/7902b5ae-07d0-480c-8961-b2a5f2c11535">
+<img width="800" alt="Get   Post" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/ada4d1d1-fc66-4223-ac29-434f0d8fc446">
+
 
 #### Postman Summarisation Diagram
 <img width="600" alt="Get   Post" src="https://github.com/Saad1929/Employee-Management-System/assets/108022733/55ded7ac-d37d-4507-aebb-0209852de730">
